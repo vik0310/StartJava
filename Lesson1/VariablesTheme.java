@@ -2,6 +2,7 @@ public class VariablesTheme {
     public static void main(String[] args) {
         //ВЫВОД ASCII-ГРАФИКИ
         System.out.println("\nВЫВОД ASCII-ГРАФИКИ\n");
+        
         System.out.println("                     /\\");
         System.out.println("   J    a  v     v  /  \\");
         System.out.println("   J   a a  v   v  /_( )\\");
